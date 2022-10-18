@@ -1,6 +1,6 @@
 # fangg.03.github.io
 hi
-```
+
 # 比較 int 整數 及 long long int 很長很長的整數 的差別。 
 ```cpp
 #include <stdio.h>
