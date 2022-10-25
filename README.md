@@ -154,7 +154,6 @@ int main()
 }
 ```
 #　直角星星(while迴圈)
-
 ```
 #include <stdio.h>
 int main()
